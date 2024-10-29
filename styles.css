@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(223, 170, 102);
+}
+.class1 {
+    font-size: 16;
+    color: rgba(141, 64, 9, 0.543);
+}
+.class2 {
+    font-size: 16;
+    color: darkgreen;
+}
